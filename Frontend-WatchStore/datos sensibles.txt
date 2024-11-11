@@ -1,0 +1,7 @@
+No pude conectar mi frontend con mi backend
+
+
+AUTH_SECRET="cbriWdUTt1BAH0wLN5KDTrZHIPFEK5vaywOSh89yVy4=" # Added by `npx auth`. Read more: https://cli.authjs.dev
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
+JW_SECRET= "b2sgZXN0byBkZWJlcmlhIGZ1bmNpb25h"
